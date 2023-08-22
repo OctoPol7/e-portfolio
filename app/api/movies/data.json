@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "link": "https://www.imdb.com/title/tt0111161/",
+    "image": "https://www.imdb.com/title/tt0111161/mediaviewer/rm1690056449/?ref_=tt_ov_i",
+    "rating": "9.3",
+    "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "link": "https://www.imdb.com/title/tt0068646/",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjI3NjYtZjY5ZC00ZjQ0LWIxZTUtMzY2ZjQ5MjY5ZjQ5XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+    "rating": "9.2",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "link": "https://www.imdb.com/title/tt0468569/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwNzI4OV5BMl5BanBnXkFtZTYwMzYxMzY3._V1_.jpg",
+    "rating": "9.0",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+  }
+]
